@@ -1,6 +1,6 @@
 # 💻 Alireza Alavi | Back-End Developer & Project Manager
 
-Hey there! 👋 I'm **Alireza Alavi**, a passionate software engineer and project manager, specialized in **back-end development**. With a strong focus on creating efficient and scalable systems, I lead the technical operations of the **Sevin Team** and contribute to the innovative projects at **Homeenger**, where we aim to revolutionize the construction and real estate industry.
+Hey there! 👋 I'm **Alireza Alavi**, a passionate software engineer and project manager, specialized in **back-end development**. With a strong focus on creating efficient and scalable systems, I lead technical operations and contribute to various innovative projects.
 
 ## 🚀 About Me
 
