@@ -4,7 +4,7 @@ Hey there! 👋 I'm **Alireza Alavi**, a passionate software engineer and projec
 
 ## 🚀 About Me
 
-- 🎯 Co-Founder & Back-End Specialist at [Savin Team](https://github.com/SavinTeam)
+- 🎯 Co-Founder & Back-End Specialist at [Savin Team](https://ir.linkedin.com/company/sevinteam?trk=public_profile_topcard-current-company)
 - 🏢 Team Member at [Homeenger](https://www.homeenger.com)
 - 👨‍💻 Specialized in **Django**, **Python**, and **REST APIs**
 - 🧩 Proficient in **data analysis** and **AI integrations**
