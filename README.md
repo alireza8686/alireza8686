@@ -13,15 +13,14 @@ Hey there! 👋 I'm **Alireza Alavi**, a passionate software engineer and projec
 
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery) ![WebSocket](https://img.shields.io/badge/-WebSocket-333333?style=flat&logo=websocket)
 
 **Tools I use:**
 - `Django Rest Framework` for crafting robust APIs
 - `Docker` for deployment and scaling
 - `Celery` for handling asynchronous tasks
 - `Swagger` for documentation and API design
-- `XAMPP`, `MariaDB`, and `Redis` for data handling
-
+- `XAMPP`, `MariaDB`, `Redis`, and `WebSocket` for real-time data handling
 
 ## 📫 Get in Touch
 
