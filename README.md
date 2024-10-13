@@ -8,7 +8,6 @@ Hey there! 👋 I'm **Alireza Alavi**, a passionate software engineer and projec
 - 🏢 Team Leader and AI Developer at [Homeenger](https://www.homeenger.com)
 - 👨‍💻 Specialized in **Django**, **Python**, and **REST APIs**
 - 🧩 Proficient in **data analysis** and **AI integrations**
-- 🎮 Advocate for **gamification** in software applications
 - 🌐 Strong believer in **remote teamwork** and efficient project management
 - 🎓 Always learning and exploring new technologies!
 
