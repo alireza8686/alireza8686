@@ -24,10 +24,20 @@ Hey there! 👋 I'm **Alireza Alavi**, a passionate software engineer and projec
 
 ## 🏆 Ongoing Projects
 
+### [Zarvan Trip](https://zarvantrip.com/landing)
+An online platform providing travel services and experiences, allowing users to plan trips and book accommodations easily.
 
+### [Hajiija](https://hajiija.com/home)
+An innovative platform focused on delivering a seamless and modern pilgrimage experience for users.
 
+### [Kimia Sanat Parseh](https://www.ksparseh.com/)
+An industrial services company providing specialized products and services, enhanced by technological solutions.
 
+### [Homeenger AI Platform](https://ai.homeeng.ir/login)
+AI-powered tools and systems tailored for the construction and real estate sectors, aimed at improving efficiency and decision-making.
 
+### [Homeenger AI Gamification](https://ai.homeeng.ir/MainGame)
+A gamified system built to enhance user engagement and improve user experience in the property management and construction domains.
 
 ## 📫 Get in Touch
 
